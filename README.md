@@ -1,4 +1,4 @@
-# 🏠 RENTiful - Modern Real Estate Rental Platform
+# 🏠 PropertyFlow - Modern Real Estate Rental Platform
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 
 _A comprehensive, full-stack rental property management platform built from the ground up_
 
-[🚀 Live Demo](#) • [📖 Documentation](#features) • [🐛 Report Issues](https://github.com/insertfahim/rentiful/issues)
+[🚀 Live Demo](#) • [📖 Documentation](#features) • [🐛 Report Issues](https://github.com/insertfahim/propertyflow/issues)
 
 </div>
 
@@ -19,7 +19,7 @@ _A comprehensive, full-stack rental property management platform built from the 
 
 ## 🌟 Project Showcase
 
-RENTiful is a sophisticated, enterprise-grade real estate rental platform that I developed to revolutionize how property managers and tenants interact. This full-stack application combines modern web technologies with intelligent design to create a seamless rental experience.
+PropertyFlow is a sophisticated, enterprise-grade real estate rental platform that I developed to revolutionize how property managers and tenants interact. This full-stack application combines modern web technologies with intelligent design to create a seamless rental experience.
 
 ### ✨ What Makes This Special
 
@@ -139,8 +139,8 @@ RENTiful is a sophisticated, enterprise-grade real estate rental platform that I
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/insertfahim/rentiful.git
-cd rentiful
+git clone https://github.com/insertfahim/propertyflow.git
+cd propertyflow
 ```
 
 ### 2. Backend Setup
@@ -156,7 +156,7 @@ cp .env.example .env
 **Server Environment Variables (.env):**
 
 ```env
-DATABASE_URL="postgresql://username:password@localhost:5432/rentiful?schema=public"
+DATABASE_URL="postgresql://username:password@localhost:5432/propertyflow?schema=public"
 JWT_SECRET="your-super-secure-jwt-secret"
 AWS_ACCESS_KEY_ID="your-aws-access-key"
 AWS_SECRET_ACCESS_KEY="your-aws-secret-key"
@@ -242,7 +242,7 @@ Visit `http://localhost:3000` to access the application! 🎉
 ## 📁 Project Structure
 
 ```
-rentiful/
+propertyflow/
 ├── client/                          # Next.js Frontend Application
 │   ├── src/
 │   │   ├── app/                     # App Router Pages
@@ -326,7 +326,7 @@ npm run build
 
 ## 🤝 Contributing
 
-I welcome contributions to make RENTiful even better! Here's how you can contribute:
+I welcome contributions to make PropertyFlow even better! Here's how you can contribute:
 
 ### Development Guidelines
 
@@ -345,7 +345,7 @@ I welcome contributions to make RENTiful even better! Here's how you can contrib
 
 ### Feature Requests
 
-Have an idea for a new feature? [Open an issue](https://github.com/insertfahim/rentiful/issues) with:
+Have an idea for a new feature? [Open an issue](https://github.com/insertfahim/propertyflow/issues) with:
 
 -   Clear description of the feature
 -   Use cases and benefits
@@ -355,14 +355,14 @@ Have an idea for a new feature? [Open an issue](https://github.com/insertfahim/r
 
 ## 📧 Contact & Support
 
-**Developer:** Fahim Ahmed  
+**Developer:** Fahim  
 **Email:** faahim06@gmail.com  
 **GitHub:** [@insertfahim](https://github.com/insertfahim)
 
 ### Get Help
 
--   🐛 **Bug Reports:** [Submit an issue](https://github.com/insertfahim/rentiful/issues)
--   💡 **Feature Requests:** [Start a discussion](https://github.com/insertfahim/rentiful/discussions)
+-   🐛 **Bug Reports:** [Submit an issue](https://github.com/insertfahim/propertyflow/issues)
+-   💡 **Feature Requests:** [Start a discussion](https://github.com/insertfahim/propertyflow/discussions)
 -   📧 **Direct Contact:** faahim06@gmail.com
 
 ### Project Status
@@ -398,7 +398,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Built with ❤️ by Fahim Ahmed**
+**Built with ❤️ by Fahim**
 
 _Transforming the real estate rental experience through technology_
 
